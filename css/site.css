@@ -1,0 +1,65 @@
+body {
+    background: #c77dff;
+    color: #240046;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+#hdr {
+    min-height: 220px;
+    padding-top: 3em;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+}
+
+.aboutme {
+    background: #9d4edd;
+}
+
+img {
+    width: 100%;
+}
+
+.aboutme {
+    width: 40%;
+    display: inline-block;
+}
+
+.hdr-bg {
+    background: url('../img/violet.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 260px;
+    position: absolute;
+    z-index: -1;
+    opacity: 0.3;
+    margin: 0;
+}
+
+.credandport {
+    background: #e0aaff;
+}
+
+h2,
+h3 {
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+}
+
+.contact {
+    background: none;
+    min-width: 100px;
+}
+
+footer {
+    min-height: 50px;
+    background: #c77dff;
+    color: #5a189a;
+    line-height: 50px;
+}
+
+section {
+    padding-bottom: 1.5em;
+}
